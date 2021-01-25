@@ -15,6 +15,9 @@ Deployed Website - https://saloni-15.github.io/simon-game/
 * And so on... In each round a new card is added to the series and the game becomes all the more difficult as the player's memory is put to the test.
 * If the player doesn't make any mistake, the game goes on and the level keeps on increasing, so it is an endless game!
 
+[img1](D:\web dev\Simon Game\images\Capture.PNG)
+[img1](D:\web dev\Simon Game\images\Capture 2.PNG)
+
 ## Acknowledgement
 [The Complete 2020 Web Development Bootcamp by Dr. Angela yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
