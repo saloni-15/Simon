@@ -4,7 +4,7 @@ The Simon game is an electronic game of lights and sounds in which players must 
 This project provides you an online version of the Simon game, built using Javascript and Jquery.
 
 ## Deployment
-Deployed Website - https://saloni-15.github.io/simon-game/
+Deployed Website - https://saloni-15.github.io/Simon/
 
 ## How to play
 * Click [here](https://saloni-15.github.io/simon-game/) to open the game.
